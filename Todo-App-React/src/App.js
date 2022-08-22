@@ -7,7 +7,11 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
+
           Edit <code>src/App.js</code> and save to reload. 커밋을 위한 작성
+        </p>
+
+          Edit <code>src/App.js</code> and save to reload.
         </p>
 
         <a
@@ -19,7 +23,10 @@ function App() {
           Learn React
         </a>
       </header>
+
       <button>커밋</button>
+
+ 
     </div>
   );
 }
