@@ -9,6 +9,7 @@ function App() {
         <p>
           Edit <code>src/App.js</code> and save to reload. 커밋을 위한 작성
         </p>
+
         <a
           className="App-link"
           href="https://reactjs.org"
@@ -18,6 +19,7 @@ function App() {
           Learn React
         </a>
       </header>
+      <button>커밋</button>
     </div>
   );
 }
